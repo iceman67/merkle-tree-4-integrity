@@ -10,4 +10,4 @@ The value of  Merkle tree's node has  a hash  of image that is generated based o
 C++ implementation of a self balancing merkle tree
 
 ## Usage
-Run `make && make clean` to compile and `./main` to run. Sample data is located in `src/main.cpp`.  
+Run `make clean && make` to compile and `./main` to run. Sample data is located in `src/main.cpp`.  
